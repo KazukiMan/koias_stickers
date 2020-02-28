@@ -9,7 +9,7 @@ EP3:
 
 EP4:
 
-EP5:
+EP5: https://github.com/KazukiMan/koias_stickers/raw/master/Ep5.zip
 
 EP6:
 
@@ -26,7 +26,7 @@ EP7:
 
 第四話
 
-第五話
+第五話 https://github.com/KazukiMan/koias_stickers/raw/master/Ep5.zip
 
 第六話
 
@@ -44,7 +44,7 @@ EP7:
 
 第四集
 
-第五集
+第五集 https://github.com/KazukiMan/koias_stickers/raw/master/Ep5.zip
 
 第六集
 
@@ -62,7 +62,7 @@ EP3:
 
 EP4:
 
-EP5:
+EP5: https://t.me/addstickers/Koias05
 
 EP6:
 
@@ -75,5 +75,3 @@ EP7:
 Twitter: https://www.twitter.com/KazukiLaplace
 
 E-mail: KazukiAmakawa@gmail.com
-
-Language: 日本語 English 中文（繁/简）
